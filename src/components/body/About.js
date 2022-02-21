@@ -1,5 +1,6 @@
 import react from "react";
 const About = () => {
+    document.title = "About";
     return (
         <div>
 
